@@ -1,11 +1,16 @@
 _repo: The-Gardens-of-the-Sun-A-naturalist-s-journal-on-the-mountains-and-in-the-forests-and-swamps-__61599
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61599-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Burbidge, F. W. (Frederick William)
     gutenberg_agent_id: '51511'
     url: http://www.gutenberg.org/2009/agents/51511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61599#The-Gardens-of-the-Sun-A-naturalist-s-journal-on-the-mountains-and-in-the-forests-and-swamps-_
 gutenberg_issued: '2020-03-11'
 gutenberg_type: Text
 identifiers:
